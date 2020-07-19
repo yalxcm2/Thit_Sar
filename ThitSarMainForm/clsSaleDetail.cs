@@ -8,7 +8,7 @@ namespace ThitSarMainForm
 {
     public class clsSaleDetail
     {
-        public clsSaleDetail(int ID, string CodeID, string ItemName, string ItemBrand, string ItemSize, int Price, int Quantity, int Amount, DateTime Date)
+        public clsSaleDetail(int ID, string CodeID, string ItemName, string ItemBrand, string ItemSize, int Price, int Quantity, int Amount)
         {
             this.ID = ID;
             this.CodeID = CodeID;
@@ -18,7 +18,7 @@ namespace ThitSarMainForm
             this.Price = Price;
             this.Quantity = Quantity;
             this.Amount = Amount;
-            this.Date = Date;
+            //this.Date = Date;
 
         }
         public int ID { get; set; }
