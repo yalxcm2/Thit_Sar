@@ -1,0 +1,341 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{BD60A438-0EAA-4651-91EE-6C6D3DA0035A}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>ThitSarMainForm</RootNamespace>
+    <AssemblyName>ThitSarMainForm</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="AnnualReport.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AnnualReport.Designer.cs">
+      <DependentUpon>AnnualReport.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CategoriesInsert.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CategoriesInsert.Designer.cs">
+      <DependentUpon>CategoriesInsert.cs</DependentUpon>
+    </Compile>
+    <Compile Include="clsSaleDetail.cs" />
+    <Compile Include="dsCategory.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>dsCategory.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="dsGeneralCost1.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>dsGeneralCost1.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="dsGeneralCost2.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>dsGeneralCost2.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="dsItem.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>dsItem.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="dsPurchase.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>dsPurchase.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="dsSaleDetail.cs">
+      <DependentUpon>dsSaleDetail.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="dsSaleDetail.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>dsSaleDetail.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="dsSaleVoucher.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>dsSaleVoucher.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="dsType.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>dsType.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.Designer.cs">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PurchaseDashboard.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PurchaseDashboard.Designer.cs">
+      <DependentUpon>PurchaseDashboard.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GeneralCost1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GeneralCost1.Designer.cs">
+      <DependentUpon>GeneralCost1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GeneralCost2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GeneralCost2.Designer.cs">
+      <DependentUpon>GeneralCost2.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GeneralCostList.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GeneralCostList.Designer.cs">
+      <DependentUpon>GeneralCostList.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ItemInsert.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ItemInsert.Designer.cs">
+      <DependentUpon>ItemInsert.cs</DependentUpon>
+    </Compile>
+    <Compile Include="LoginForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="LoginForm.Designer.cs">
+      <DependentUpon>LoginForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MonthlyReport.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MonthlyReport.Designer.cs">
+      <DependentUpon>MonthlyReport.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="PurchaseList.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PurchaseList.Designer.cs">
+      <DependentUpon>PurchaseList.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SaleDashboard.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SaleDashboard.Designer.cs">
+      <DependentUpon>SaleDashboard.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SaleVoucherUpdate.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SaleVoucherUpdate.Designer.cs">
+      <DependentUpon>SaleVoucherUpdate.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SellList.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SellList.Designer.cs">
+      <DependentUpon>SellList.cs</DependentUpon>
+    </Compile>
+    <Compile Include="TypeInsert.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="TypeInsert.Designer.cs">
+      <DependentUpon>TypeInsert.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="AnnualReport.resx">
+      <DependentUpon>AnnualReport.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CategoriesInsert.resx">
+      <DependentUpon>CategoriesInsert.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form1.resx">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GeneralCost1.resx">
+      <DependentUpon>GeneralCost1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GeneralCost2.resx">
+      <DependentUpon>GeneralCost2.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GeneralCostList.resx">
+      <DependentUpon>GeneralCostList.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ItemInsert.resx">
+      <DependentUpon>ItemInsert.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="LoginForm.resx">
+      <DependentUpon>LoginForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MonthlyReport.resx">
+      <DependentUpon>MonthlyReport.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="PurchaseDashboard.resx">
+      <DependentUpon>PurchaseDashboard.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PurchaseList.resx">
+      <DependentUpon>PurchaseList.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SaleDashboard.resx">
+      <DependentUpon>SaleDashboard.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SaleVoucherUpdate.resx">
+      <DependentUpon>SaleVoucherUpdate.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SellList.resx">
+      <DependentUpon>SellList.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="TypeInsert.resx">
+      <DependentUpon>TypeInsert.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="dsCategory.xsc">
+      <DependentUpon>dsCategory.xsd</DependentUpon>
+    </None>
+    <None Include="dsCategory.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>dsCategory.Designer.cs</LastGenOutput>
+    </None>
+    <None Include="dsCategory.xss">
+      <DependentUpon>dsCategory.xsd</DependentUpon>
+    </None>
+    <None Include="dsGeneralCost1.xsc">
+      <DependentUpon>dsGeneralCost1.xsd</DependentUpon>
+    </None>
+    <None Include="dsGeneralCost1.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>dsGeneralCost1.Designer.cs</LastGenOutput>
+    </None>
+    <None Include="dsGeneralCost1.xss">
+      <DependentUpon>dsGeneralCost1.xsd</DependentUpon>
+    </None>
+    <None Include="dsGeneralCost2.xsc">
+      <DependentUpon>dsGeneralCost2.xsd</DependentUpon>
+    </None>
+    <None Include="dsGeneralCost2.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>dsGeneralCost2.Designer.cs</LastGenOutput>
+    </None>
+    <None Include="dsGeneralCost2.xss">
+      <DependentUpon>dsGeneralCost2.xsd</DependentUpon>
+    </None>
+    <None Include="dsItem.xsc">
+      <DependentUpon>dsItem.xsd</DependentUpon>
+    </None>
+    <None Include="dsItem.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>dsItem.Designer.cs</LastGenOutput>
+    </None>
+    <None Include="dsItem.xss">
+      <DependentUpon>dsItem.xsd</DependentUpon>
+    </None>
+    <None Include="dsPurchase.xsc">
+      <DependentUpon>dsPurchase.xsd</DependentUpon>
+    </None>
+    <None Include="dsPurchase.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>dsPurchase.Designer.cs</LastGenOutput>
+    </None>
+    <None Include="dsPurchase.xss">
+      <DependentUpon>dsPurchase.xsd</DependentUpon>
+    </None>
+    <None Include="dsSaleDetail.xsc">
+      <DependentUpon>dsSaleDetail.xsd</DependentUpon>
+    </None>
+    <None Include="dsSaleDetail.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>dsSaleDetail.Designer.cs</LastGenOutput>
+    </None>
+    <None Include="dsSaleDetail.xss">
+      <DependentUpon>dsSaleDetail.xsd</DependentUpon>
+    </None>
+    <None Include="dsSaleVoucher.xsc">
+      <DependentUpon>dsSaleVoucher.xsd</DependentUpon>
+    </None>
+    <None Include="dsSaleVoucher.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>dsSaleVoucher.Designer.cs</LastGenOutput>
+    </None>
+    <None Include="dsSaleVoucher.xss">
+      <DependentUpon>dsSaleVoucher.xsd</DependentUpon>
+    </None>
+    <None Include="dsType.xsc">
+      <DependentUpon>dsType.xsd</DependentUpon>
+    </None>
+    <None Include="dsType.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>dsType.Designer.cs</LastGenOutput>
+    </None>
+    <None Include="dsType.xss">
+      <DependentUpon>dsType.xsd</DependentUpon>
+    </None>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

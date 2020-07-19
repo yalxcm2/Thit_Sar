@@ -1,0 +1,159 @@
+E:\Thin Sar\ThitSarMainForm\ThitSarMainForm\bin\Debug\ThitSarMainForm.exe.config
+E:\Thin Sar\ThitSarMainForm\ThitSarMainForm\bin\Debug\ThitSarMainForm.exe
+E:\Thin Sar\ThitSarMainForm\ThitSarMainForm\bin\Debug\ThitSarMainForm.pdb
+E:\Thin Sar\ThitSarMainForm\ThitSarMainForm\obj\Debug\ThitSarMainForm.csprojAssemblyReference.cache
+E:\Thin Sar\ThitSarMainForm\ThitSarMainForm\obj\Debug\ThitSarMainForm.Form1.resources
+E:\Thin Sar\ThitSarMainForm\ThitSarMainForm\obj\Debug\ThitSarMainForm.Properties.Resources.resources
+E:\Thin Sar\ThitSarMainForm\ThitSarMainForm\obj\Debug\ThitSarMainForm.csproj.GenerateResource.cache
+E:\Thin Sar\ThitSarMainForm\ThitSarMainForm\obj\Debug\ThitSarMainForm.csproj.CoreCompileInputs.cache
+E:\Thin Sar\ThitSarMainForm\ThitSarMainForm\obj\Debug\ThitSarMainForm.exe
+E:\Thin Sar\ThitSarMainForm\ThitSarMainForm\obj\Debug\ThitSarMainForm.pdb
+E:\Thin Sar\ThitSarMainForm\ThitSarMainForm\obj\Debug\ThitSarMainForm.CategoriesInsert.resources
+E:\Thin Sar\ThitSarMainForm\ThitSarMainForm\obj\Debug\ThitSarMainForm.ItemInsert.resources
+E:\Thin Sar\ThitSarMainForm\ThitSarMainForm\obj\Debug\ThitSarMainForm.TypeInsert.resources
+E:\Thin Sar\ThitSarMainForm\ThitSarMainForm\obj\Debug\ThitSarMainForm.GeneralCost1.resources
+E:\Thin Sar\ThitSarMainForm\ThitSarMainForm\obj\Debug\ThitSarMainForm.GeneralCost2.resources
+E:\Thin Sar\ThitSarMainForm\ThitSarMainForm\obj\Debug\ThitSarMainForm.GeneralCostList.resources
+E:\Thin Sar\ThitSarMainForm\ThitSarMainForm\obj\Debug\ThitSarMainForm.PurchaseList.resources
+E:\Thin Sar\ThitSarMainForm\ThitSarMainForm\obj\Debug\ThitSarMainForm.SellList.resources
+E:\Thin Sar\ThitSarMainForm\ThitSarMainForm\obj\Debug\ThitSarMainForm.AnnualReport.resources
+E:\Thin Sar\ThitSarMainForm\ThitSarMainForm\obj\Debug\ThitSarMainForm.MonthlyReport.resources
+E:\Thin Sar\ThitSarMainForm\ThitSarMainForm\obj\Debug\ThitSarMainForm.LoginForm.resources
+E:\Thin Sar\ThitSarMainForm\ThitSarMainForm\obj\Debug\ThitSarMainForm.SaleDashboard.resources
+D:\Sirier Tech Jobs\ThitSarMainForm\ThitSarMainForm\bin\Debug\ThitSarMainForm.exe.config
+D:\Sirier Tech Jobs\ThitSarMainForm\ThitSarMainForm\bin\Debug\ThitSarMainForm.exe
+D:\Sirier Tech Jobs\ThitSarMainForm\ThitSarMainForm\bin\Debug\ThitSarMainForm.pdb
+D:\Sirier Tech Jobs\ThitSarMainForm\ThitSarMainForm\obj\Debug\ThitSarMainForm.csprojAssemblyReference.cache
+D:\Sirier Tech Jobs\ThitSarMainForm\ThitSarMainForm\obj\Debug\ThitSarMainForm.AnnualReport.resources
+D:\Sirier Tech Jobs\ThitSarMainForm\ThitSarMainForm\obj\Debug\ThitSarMainForm.CategoriesInsert.resources
+D:\Sirier Tech Jobs\ThitSarMainForm\ThitSarMainForm\obj\Debug\ThitSarMainForm.Form1.resources
+D:\Sirier Tech Jobs\ThitSarMainForm\ThitSarMainForm\obj\Debug\ThitSarMainForm.GeneralCost1.resources
+D:\Sirier Tech Jobs\ThitSarMainForm\ThitSarMainForm\obj\Debug\ThitSarMainForm.GeneralCost2.resources
+D:\Sirier Tech Jobs\ThitSarMainForm\ThitSarMainForm\obj\Debug\ThitSarMainForm.GeneralCostList.resources
+D:\Sirier Tech Jobs\ThitSarMainForm\ThitSarMainForm\obj\Debug\ThitSarMainForm.ItemInsert.resources
+D:\Sirier Tech Jobs\ThitSarMainForm\ThitSarMainForm\obj\Debug\ThitSarMainForm.LoginForm.resources
+D:\Sirier Tech Jobs\ThitSarMainForm\ThitSarMainForm\obj\Debug\ThitSarMainForm.MonthlyReport.resources
+D:\Sirier Tech Jobs\ThitSarMainForm\ThitSarMainForm\obj\Debug\ThitSarMainForm.Properties.Resources.resources
+D:\Sirier Tech Jobs\ThitSarMainForm\ThitSarMainForm\obj\Debug\ThitSarMainForm.PurchaseList.resources
+D:\Sirier Tech Jobs\ThitSarMainForm\ThitSarMainForm\obj\Debug\ThitSarMainForm.SaleDashboard.resources
+D:\Sirier Tech Jobs\ThitSarMainForm\ThitSarMainForm\obj\Debug\ThitSarMainForm.SellList.resources
+D:\Sirier Tech Jobs\ThitSarMainForm\ThitSarMainForm\obj\Debug\ThitSarMainForm.TypeInsert.resources
+D:\Sirier Tech Jobs\ThitSarMainForm\ThitSarMainForm\obj\Debug\ThitSarMainForm.csproj.GenerateResource.cache
+D:\Sirier Tech Jobs\ThitSarMainForm\ThitSarMainForm\obj\Debug\ThitSarMainForm.csproj.CoreCompileInputs.cache
+D:\Sirier Tech Jobs\ThitSarMainForm\ThitSarMainForm\obj\Debug\ThitSarMainForm.exe
+D:\Sirier Tech Jobs\ThitSarMainForm\ThitSarMainForm\obj\Debug\ThitSarMainForm.pdb
+D:\Thit_Sar\ThitSarMainForm\ThitSarMainForm\bin\Debug\ThitSarMainForm.exe.config
+D:\Thit_Sar\ThitSarMainForm\ThitSarMainForm\bin\Debug\ThitSarMainForm.exe
+D:\Thit_Sar\ThitSarMainForm\ThitSarMainForm\bin\Debug\ThitSarMainForm.pdb
+D:\Thit_Sar\ThitSarMainForm\ThitSarMainForm\obj\Debug\ThitSarMainForm.AnnualReport.resources
+D:\Thit_Sar\ThitSarMainForm\ThitSarMainForm\obj\Debug\ThitSarMainForm.CategoriesInsert.resources
+D:\Thit_Sar\ThitSarMainForm\ThitSarMainForm\obj\Debug\ThitSarMainForm.Form1.resources
+D:\Thit_Sar\ThitSarMainForm\ThitSarMainForm\obj\Debug\ThitSarMainForm.GeneralCost1.resources
+D:\Thit_Sar\ThitSarMainForm\ThitSarMainForm\obj\Debug\ThitSarMainForm.GeneralCost2.resources
+D:\Thit_Sar\ThitSarMainForm\ThitSarMainForm\obj\Debug\ThitSarMainForm.GeneralCostList.resources
+D:\Thit_Sar\ThitSarMainForm\ThitSarMainForm\obj\Debug\ThitSarMainForm.ItemInsert.resources
+D:\Thit_Sar\ThitSarMainForm\ThitSarMainForm\obj\Debug\ThitSarMainForm.LoginForm.resources
+D:\Thit_Sar\ThitSarMainForm\ThitSarMainForm\obj\Debug\ThitSarMainForm.MonthlyReport.resources
+D:\Thit_Sar\ThitSarMainForm\ThitSarMainForm\obj\Debug\ThitSarMainForm.Properties.Resources.resources
+D:\Thit_Sar\ThitSarMainForm\ThitSarMainForm\obj\Debug\ThitSarMainForm.PurchaseList.resources
+D:\Thit_Sar\ThitSarMainForm\ThitSarMainForm\obj\Debug\ThitSarMainForm.SaleDashboard.resources
+D:\Thit_Sar\ThitSarMainForm\ThitSarMainForm\obj\Debug\ThitSarMainForm.SellList.resources
+D:\Thit_Sar\ThitSarMainForm\ThitSarMainForm\obj\Debug\ThitSarMainForm.TypeInsert.resources
+D:\Thit_Sar\ThitSarMainForm\ThitSarMainForm\obj\Debug\ThitSarMainForm.csproj.GenerateResource.cache
+D:\Thit_Sar\ThitSarMainForm\ThitSarMainForm\obj\Debug\ThitSarMainForm.csproj.CoreCompileInputs.cache
+D:\Thit_Sar\ThitSarMainForm\ThitSarMainForm\obj\Debug\ThitSarMainForm.exe
+D:\Thit_Sar\ThitSarMainForm\ThitSarMainForm\obj\Debug\ThitSarMainForm.pdb
+D:\Sirier Tech Jobs\Thit_Sar-20200715T071923Z-001\Thit_Sar\ThitSarMainForm\ThitSarMainForm\ThitSarMainForm\bin\Debug\ThitSarMainForm.exe.config
+D:\Sirier Tech Jobs\Thit_Sar-20200715T071923Z-001\Thit_Sar\ThitSarMainForm\ThitSarMainForm\ThitSarMainForm\bin\Debug\ThitSarMainForm.exe
+D:\Sirier Tech Jobs\Thit_Sar-20200715T071923Z-001\Thit_Sar\ThitSarMainForm\ThitSarMainForm\ThitSarMainForm\bin\Debug\ThitSarMainForm.pdb
+D:\Sirier Tech Jobs\Thit_Sar-20200715T071923Z-001\Thit_Sar\ThitSarMainForm\ThitSarMainForm\ThitSarMainForm\obj\Debug\ThitSarMainForm.csprojAssemblyReference.cache
+D:\Sirier Tech Jobs\Thit_Sar-20200715T071923Z-001\Thit_Sar\ThitSarMainForm\ThitSarMainForm\ThitSarMainForm\obj\Debug\ThitSarMainForm.AnnualReport.resources
+D:\Sirier Tech Jobs\Thit_Sar-20200715T071923Z-001\Thit_Sar\ThitSarMainForm\ThitSarMainForm\ThitSarMainForm\obj\Debug\ThitSarMainForm.CategoriesInsert.resources
+D:\Sirier Tech Jobs\Thit_Sar-20200715T071923Z-001\Thit_Sar\ThitSarMainForm\ThitSarMainForm\ThitSarMainForm\obj\Debug\ThitSarMainForm.Form1.resources
+D:\Sirier Tech Jobs\Thit_Sar-20200715T071923Z-001\Thit_Sar\ThitSarMainForm\ThitSarMainForm\ThitSarMainForm\obj\Debug\ThitSarMainForm.GeneralCost1.resources
+D:\Sirier Tech Jobs\Thit_Sar-20200715T071923Z-001\Thit_Sar\ThitSarMainForm\ThitSarMainForm\ThitSarMainForm\obj\Debug\ThitSarMainForm.GeneralCost2.resources
+D:\Sirier Tech Jobs\Thit_Sar-20200715T071923Z-001\Thit_Sar\ThitSarMainForm\ThitSarMainForm\ThitSarMainForm\obj\Debug\ThitSarMainForm.GeneralCostList.resources
+D:\Sirier Tech Jobs\Thit_Sar-20200715T071923Z-001\Thit_Sar\ThitSarMainForm\ThitSarMainForm\ThitSarMainForm\obj\Debug\ThitSarMainForm.ItemInsert.resources
+D:\Sirier Tech Jobs\Thit_Sar-20200715T071923Z-001\Thit_Sar\ThitSarMainForm\ThitSarMainForm\ThitSarMainForm\obj\Debug\ThitSarMainForm.LoginForm.resources
+D:\Sirier Tech Jobs\Thit_Sar-20200715T071923Z-001\Thit_Sar\ThitSarMainForm\ThitSarMainForm\ThitSarMainForm\obj\Debug\ThitSarMainForm.MonthlyReport.resources
+D:\Sirier Tech Jobs\Thit_Sar-20200715T071923Z-001\Thit_Sar\ThitSarMainForm\ThitSarMainForm\ThitSarMainForm\obj\Debug\ThitSarMainForm.Properties.Resources.resources
+D:\Sirier Tech Jobs\Thit_Sar-20200715T071923Z-001\Thit_Sar\ThitSarMainForm\ThitSarMainForm\ThitSarMainForm\obj\Debug\ThitSarMainForm.PurchaseList.resources
+D:\Sirier Tech Jobs\Thit_Sar-20200715T071923Z-001\Thit_Sar\ThitSarMainForm\ThitSarMainForm\ThitSarMainForm\obj\Debug\ThitSarMainForm.SaleDashboard.resources
+D:\Sirier Tech Jobs\Thit_Sar-20200715T071923Z-001\Thit_Sar\ThitSarMainForm\ThitSarMainForm\ThitSarMainForm\obj\Debug\ThitSarMainForm.SellList.resources
+D:\Sirier Tech Jobs\Thit_Sar-20200715T071923Z-001\Thit_Sar\ThitSarMainForm\ThitSarMainForm\ThitSarMainForm\obj\Debug\ThitSarMainForm.TypeInsert.resources
+D:\Sirier Tech Jobs\Thit_Sar-20200715T071923Z-001\Thit_Sar\ThitSarMainForm\ThitSarMainForm\ThitSarMainForm\obj\Debug\ThitSarMainForm.csproj.GenerateResource.cache
+D:\Sirier Tech Jobs\Thit_Sar-20200715T071923Z-001\Thit_Sar\ThitSarMainForm\ThitSarMainForm\ThitSarMainForm\obj\Debug\ThitSarMainForm.csproj.CoreCompileInputs.cache
+D:\Sirier Tech Jobs\Thit_Sar-20200715T071923Z-001\Thit_Sar\ThitSarMainForm\ThitSarMainForm\ThitSarMainForm\obj\Debug\ThitSarMainForm.exe
+D:\Sirier Tech Jobs\Thit_Sar-20200715T071923Z-001\Thit_Sar\ThitSarMainForm\ThitSarMainForm\ThitSarMainForm\obj\Debug\ThitSarMainForm.pdb
+D:\Sirier Tech Jobs\Thit_Sar-20200715T071923Z-001\Thit_Sar\ThitSarMainForm\ThitSarMainForm\ThitSarMainForm\obj\Debug\ThitSarMainForm.PurchaseDashboard.resources
+D:\Thit_Sar\ThitSarFinal\ThitSarMainForm\ThitSarMainForm\bin\Debug\ThitSarMainForm.exe.config
+D:\Thit_Sar\ThitSarFinal\ThitSarMainForm\ThitSarMainForm\bin\Debug\ThitSarMainForm.exe
+D:\Thit_Sar\ThitSarFinal\ThitSarMainForm\ThitSarMainForm\bin\Debug\ThitSarMainForm.pdb
+D:\Thit_Sar\ThitSarFinal\ThitSarMainForm\ThitSarMainForm\obj\Debug\ThitSarMainForm.AnnualReport.resources
+D:\Thit_Sar\ThitSarFinal\ThitSarMainForm\ThitSarMainForm\obj\Debug\ThitSarMainForm.CategoriesInsert.resources
+D:\Thit_Sar\ThitSarFinal\ThitSarMainForm\ThitSarMainForm\obj\Debug\ThitSarMainForm.Form1.resources
+D:\Thit_Sar\ThitSarFinal\ThitSarMainForm\ThitSarMainForm\obj\Debug\ThitSarMainForm.GeneralCost1.resources
+D:\Thit_Sar\ThitSarFinal\ThitSarMainForm\ThitSarMainForm\obj\Debug\ThitSarMainForm.GeneralCost2.resources
+D:\Thit_Sar\ThitSarFinal\ThitSarMainForm\ThitSarMainForm\obj\Debug\ThitSarMainForm.GeneralCostList.resources
+D:\Thit_Sar\ThitSarFinal\ThitSarMainForm\ThitSarMainForm\obj\Debug\ThitSarMainForm.ItemInsert.resources
+D:\Thit_Sar\ThitSarFinal\ThitSarMainForm\ThitSarMainForm\obj\Debug\ThitSarMainForm.LoginForm.resources
+D:\Thit_Sar\ThitSarFinal\ThitSarMainForm\ThitSarMainForm\obj\Debug\ThitSarMainForm.MonthlyReport.resources
+D:\Thit_Sar\ThitSarFinal\ThitSarMainForm\ThitSarMainForm\obj\Debug\ThitSarMainForm.Properties.Resources.resources
+D:\Thit_Sar\ThitSarFinal\ThitSarMainForm\ThitSarMainForm\obj\Debug\ThitSarMainForm.PurchaseDashboard.resources
+D:\Thit_Sar\ThitSarFinal\ThitSarMainForm\ThitSarMainForm\obj\Debug\ThitSarMainForm.PurchaseList.resources
+D:\Thit_Sar\ThitSarFinal\ThitSarMainForm\ThitSarMainForm\obj\Debug\ThitSarMainForm.SaleDashboard.resources
+D:\Thit_Sar\ThitSarFinal\ThitSarMainForm\ThitSarMainForm\obj\Debug\ThitSarMainForm.SellList.resources
+D:\Thit_Sar\ThitSarFinal\ThitSarMainForm\ThitSarMainForm\obj\Debug\ThitSarMainForm.TypeInsert.resources
+D:\Thit_Sar\ThitSarFinal\ThitSarMainForm\ThitSarMainForm\obj\Debug\ThitSarMainForm.csproj.GenerateResource.cache
+D:\Thit_Sar\ThitSarFinal\ThitSarMainForm\ThitSarMainForm\obj\Debug\ThitSarMainForm.csproj.CoreCompileInputs.cache
+D:\Thit_Sar\ThitSarFinal\ThitSarMainForm\ThitSarMainForm\obj\Debug\ThitSarMainForm.exe
+D:\Thit_Sar\ThitSarFinal\ThitSarMainForm\ThitSarMainForm\obj\Debug\ThitSarMainForm.pdb
+D:\Thit_Sar\ThitSarFinal\ThitSarMainForm\ThitSarMainForm\obj\Debug\ThitSarMainForm.csprojAssemblyReference.cache
+D:\Thit_Sar\Thit_Sar\ThitSarMainForm\ThitSarMainForm\ThitSarMainForm\bin\Debug\ThitSarMainForm.exe.config
+D:\Thit_Sar\Thit_Sar\ThitSarMainForm\ThitSarMainForm\ThitSarMainForm\bin\Debug\ThitSarMainForm.exe
+D:\Thit_Sar\Thit_Sar\ThitSarMainForm\ThitSarMainForm\ThitSarMainForm\bin\Debug\ThitSarMainForm.pdb
+D:\Thit_Sar\Thit_Sar\ThitSarMainForm\ThitSarMainForm\ThitSarMainForm\obj\Debug\ThitSarMainForm.csprojAssemblyReference.cache
+D:\Thit_Sar\Thit_Sar\ThitSarMainForm\ThitSarMainForm\ThitSarMainForm\obj\Debug\ThitSarMainForm.AnnualReport.resources
+D:\Thit_Sar\Thit_Sar\ThitSarMainForm\ThitSarMainForm\ThitSarMainForm\obj\Debug\ThitSarMainForm.CategoriesInsert.resources
+D:\Thit_Sar\Thit_Sar\ThitSarMainForm\ThitSarMainForm\ThitSarMainForm\obj\Debug\ThitSarMainForm.Form1.resources
+D:\Thit_Sar\Thit_Sar\ThitSarMainForm\ThitSarMainForm\ThitSarMainForm\obj\Debug\ThitSarMainForm.GeneralCost1.resources
+D:\Thit_Sar\Thit_Sar\ThitSarMainForm\ThitSarMainForm\ThitSarMainForm\obj\Debug\ThitSarMainForm.GeneralCost2.resources
+D:\Thit_Sar\Thit_Sar\ThitSarMainForm\ThitSarMainForm\ThitSarMainForm\obj\Debug\ThitSarMainForm.GeneralCostList.resources
+D:\Thit_Sar\Thit_Sar\ThitSarMainForm\ThitSarMainForm\ThitSarMainForm\obj\Debug\ThitSarMainForm.ItemInsert.resources
+D:\Thit_Sar\Thit_Sar\ThitSarMainForm\ThitSarMainForm\ThitSarMainForm\obj\Debug\ThitSarMainForm.LoginForm.resources
+D:\Thit_Sar\Thit_Sar\ThitSarMainForm\ThitSarMainForm\ThitSarMainForm\obj\Debug\ThitSarMainForm.MonthlyReport.resources
+D:\Thit_Sar\Thit_Sar\ThitSarMainForm\ThitSarMainForm\ThitSarMainForm\obj\Debug\ThitSarMainForm.Properties.Resources.resources
+D:\Thit_Sar\Thit_Sar\ThitSarMainForm\ThitSarMainForm\ThitSarMainForm\obj\Debug\ThitSarMainForm.PurchaseDashboard.resources
+D:\Thit_Sar\Thit_Sar\ThitSarMainForm\ThitSarMainForm\ThitSarMainForm\obj\Debug\ThitSarMainForm.PurchaseList.resources
+D:\Thit_Sar\Thit_Sar\ThitSarMainForm\ThitSarMainForm\ThitSarMainForm\obj\Debug\ThitSarMainForm.SaleDashboard.resources
+D:\Thit_Sar\Thit_Sar\ThitSarMainForm\ThitSarMainForm\ThitSarMainForm\obj\Debug\ThitSarMainForm.SellList.resources
+D:\Thit_Sar\Thit_Sar\ThitSarMainForm\ThitSarMainForm\ThitSarMainForm\obj\Debug\ThitSarMainForm.TypeInsert.resources
+D:\Thit_Sar\Thit_Sar\ThitSarMainForm\ThitSarMainForm\ThitSarMainForm\obj\Debug\ThitSarMainForm.csproj.GenerateResource.cache
+D:\Thit_Sar\Thit_Sar\ThitSarMainForm\ThitSarMainForm\ThitSarMainForm\obj\Debug\ThitSarMainForm.csproj.CoreCompileInputs.cache
+D:\Thit_Sar\Thit_Sar\ThitSarMainForm\ThitSarMainForm\ThitSarMainForm\obj\Debug\ThitSarMainForm.exe
+D:\Thit_Sar\Thit_Sar\ThitSarMainForm\ThitSarMainForm\ThitSarMainForm\obj\Debug\ThitSarMainForm.pdb
+D:\Thit_Sar\Thit_Sar\ThitSarMainForm\ThitSarMainForm\ThitSarMainForm\obj\Debug\ThitSarMainForm.SaleVoucherUpdate.resources
+D:\Thit_Sar\New folder\ThitSar\ThitSarMainForm\ThitSarMainForm\bin\Debug\ThitSarMainForm.exe.config
+D:\Thit_Sar\New folder\ThitSar\ThitSarMainForm\ThitSarMainForm\bin\Debug\ThitSarMainForm.exe
+D:\Thit_Sar\New folder\ThitSar\ThitSarMainForm\ThitSarMainForm\bin\Debug\ThitSarMainForm.pdb
+D:\Thit_Sar\New folder\ThitSar\ThitSarMainForm\ThitSarMainForm\obj\Debug\ThitSarMainForm.csprojAssemblyReference.cache
+D:\Thit_Sar\New folder\ThitSar\ThitSarMainForm\ThitSarMainForm\obj\Debug\ThitSarMainForm.AnnualReport.resources
+D:\Thit_Sar\New folder\ThitSar\ThitSarMainForm\ThitSarMainForm\obj\Debug\ThitSarMainForm.CategoriesInsert.resources
+D:\Thit_Sar\New folder\ThitSar\ThitSarMainForm\ThitSarMainForm\obj\Debug\ThitSarMainForm.Form1.resources
+D:\Thit_Sar\New folder\ThitSar\ThitSarMainForm\ThitSarMainForm\obj\Debug\ThitSarMainForm.GeneralCost1.resources
+D:\Thit_Sar\New folder\ThitSar\ThitSarMainForm\ThitSarMainForm\obj\Debug\ThitSarMainForm.GeneralCost2.resources
+D:\Thit_Sar\New folder\ThitSar\ThitSarMainForm\ThitSarMainForm\obj\Debug\ThitSarMainForm.GeneralCostList.resources
+D:\Thit_Sar\New folder\ThitSar\ThitSarMainForm\ThitSarMainForm\obj\Debug\ThitSarMainForm.ItemInsert.resources
+D:\Thit_Sar\New folder\ThitSar\ThitSarMainForm\ThitSarMainForm\obj\Debug\ThitSarMainForm.LoginForm.resources
+D:\Thit_Sar\New folder\ThitSar\ThitSarMainForm\ThitSarMainForm\obj\Debug\ThitSarMainForm.MonthlyReport.resources
+D:\Thit_Sar\New folder\ThitSar\ThitSarMainForm\ThitSarMainForm\obj\Debug\ThitSarMainForm.Properties.Resources.resources
+D:\Thit_Sar\New folder\ThitSar\ThitSarMainForm\ThitSarMainForm\obj\Debug\ThitSarMainForm.PurchaseDashboard.resources
+D:\Thit_Sar\New folder\ThitSar\ThitSarMainForm\ThitSarMainForm\obj\Debug\ThitSarMainForm.PurchaseList.resources
+D:\Thit_Sar\New folder\ThitSar\ThitSarMainForm\ThitSarMainForm\obj\Debug\ThitSarMainForm.SaleDashboard.resources
+D:\Thit_Sar\New folder\ThitSar\ThitSarMainForm\ThitSarMainForm\obj\Debug\ThitSarMainForm.SaleVoucherUpdate.resources
+D:\Thit_Sar\New folder\ThitSar\ThitSarMainForm\ThitSarMainForm\obj\Debug\ThitSarMainForm.SellList.resources
+D:\Thit_Sar\New folder\ThitSar\ThitSarMainForm\ThitSarMainForm\obj\Debug\ThitSarMainForm.TypeInsert.resources
+D:\Thit_Sar\New folder\ThitSar\ThitSarMainForm\ThitSarMainForm\obj\Debug\ThitSarMainForm.csproj.GenerateResource.cache
+D:\Thit_Sar\New folder\ThitSar\ThitSarMainForm\ThitSarMainForm\obj\Debug\ThitSarMainForm.csproj.CoreCompileInputs.cache
+D:\Thit_Sar\New folder\ThitSar\ThitSarMainForm\ThitSarMainForm\obj\Debug\ThitSarMainForm.exe
+D:\Thit_Sar\New folder\ThitSar\ThitSarMainForm\ThitSarMainForm\obj\Debug\ThitSarMainForm.pdb
