@@ -16,6 +16,8 @@ namespace ThitSarMainForm
         {
             InitializeComponent();
         }
+        
+        Boolean isXiongchaoda = false;
 
         Boolean isUpdate = false;
         int UpdateID;
